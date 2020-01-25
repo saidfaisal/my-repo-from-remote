@@ -16,5 +16,7 @@ class MainActivity : AppCompatActivity() {
         val result = a + b
 
         val maybe = "Maybe in the future"
+
+        val cause = hello + maybe
     }
 }
