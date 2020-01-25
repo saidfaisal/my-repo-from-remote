@@ -19,6 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         val cause = hello + maybe
 
-        val helloWorld = "Hello World ya"
+        val helloWorld = "Hello World ya, tambahan lagi"
     }
 }
