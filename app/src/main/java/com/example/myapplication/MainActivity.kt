@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val hello = "Hello World"
+
+        val a = 1
+        val b = 2
+        val result = a + b
     }
 }
