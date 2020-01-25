@@ -22,5 +22,6 @@ class MainActivity : AppCompatActivity() {
 
     fun percobaan() {
         val memangAda = "memang ada"
+        val lagi = "lagi lagi"
     }
 }
