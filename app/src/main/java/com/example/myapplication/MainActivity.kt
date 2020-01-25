@@ -19,4 +19,8 @@ class MainActivity : AppCompatActivity() {
 
         val cause = hello + maybe
     }
+
+    fun percobaan() {
+        val memangAda = "memang ada"
+    }
 }
