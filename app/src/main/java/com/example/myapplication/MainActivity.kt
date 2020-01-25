@@ -18,6 +18,8 @@ class MainActivity : AppCompatActivity() {
         val maybe = "Maybe in the future"
 
         val cause = hello + maybe
+
+        val helloWorld = "Hello World ya, tambahan lagi"
     }
 
     fun percobaan() {
